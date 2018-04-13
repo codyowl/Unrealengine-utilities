@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Oculusrift_axis.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\tring\OneDrive\Documents\Unreal Projects\githubrepo\Unrealengine-utilities\Oculusrift_axis\Intermediate\Build\Win64\UE4Editor\Development\Oculusrift_axis\Oculusrift_axis.cpp.obj"
+"C:\Users\tring\OneDrive\Documents\Unreal Projects\githubrepo\Unrealengine-utilities\Oculusrift_axis\Intermediate\Build\Win64\UE4Editor\Development\Oculusrift_axis\Oculusrift_axisGameModeBase.cpp.obj"
+"C:\Users\tring\OneDrive\Documents\Unreal Projects\githubrepo\Unrealengine-utilities\Oculusrift_axis\Intermediate\Build\Win64\UE4Editor\Development\Oculusrift_axis\Oculusrift_axis.init.gen.cpp.obj"
+"C:\Users\tring\OneDrive\Documents\Unreal Projects\githubrepo\Unrealengine-utilities\Oculusrift_axis\Intermediate\Build\Win64\UE4Editor\Development\Oculusrift_axis\Oculusrift_axisGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Oculusrift_axis\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\tring\OneDrive\Documents\Unreal Projects\githubrepo\Unrealengine-utilities\Oculusrift_axis\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Oculusrift_axis.lib"
