@@ -1,8 +1,8 @@
-# Unrealengine-utilities
+# Unreal Engine Utilities
 A repo full of unreal engine utilities with c++
 
- - [pc keyboard axis controller with c++](https://github.com/codyowl/unrealengine-pc-axis-controller)
+ - [PC Keyboard Axis Controller](pc_keyboard_axis)
 
- - [Third persion camera controller with c++](https://github.com/codyowl/Unrealengine-utilities/tree/master/ThirdPersonCamera)
+ - [Third Person Camera Controller](ThirdPersonCamera)
 
- - [Bullet behaviour](https://github.com/codyowl/Unrealengine-utilities/tree/master/Bulletobject)
+ - [Bullet Behaviour](Bulletobject)
